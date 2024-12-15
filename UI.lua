@@ -516,7 +516,7 @@ local Notifications = Rayfield.Notifications
 
 local SelectedTheme = RayfieldLibrary.Theme.Default
 
-local howWidth = 100 -- Adjust this value as needed
+local howWidth = 120 -- Adjust this value as needed
 
 local function ChangeTheme(Theme)
 	if typeof(Theme) == 'string' then
